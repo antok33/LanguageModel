@@ -12,8 +12,6 @@ import operator
 from random import randint
 
 
-#nltk.download("punkt")
-
 def parseEuroparl():
     txt = ""
     test_txt = ""
