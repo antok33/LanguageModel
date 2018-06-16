@@ -12,6 +12,7 @@ import operator
 from random import randint
 
 
+# Documents for European Parliament
 def parseEuroparl():
     txt = ""
     test_txt = ""
